@@ -1,0 +1,10 @@
+.env
+.idea/
+models/q_table.npy
+*node_modules*
+*myenv*
+*__pycache__*
+*python-version*
+*venv*
+.DS_Store
+.env

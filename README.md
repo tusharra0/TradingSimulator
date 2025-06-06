@@ -8,7 +8,7 @@ This project is an interactive trading simulator that allows users to test stock
 To set it up, first clone the repo as follows:
 
 ```bash
-git clone https://github.com/zikompo/Trading_Simulator.git
+git clone https://github.com/tusharra0/TradingSimulator.git
 ```
 
 Then open the repo in an IDE of your choice. 
